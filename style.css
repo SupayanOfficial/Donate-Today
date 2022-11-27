@@ -1,0 +1,280 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.top-banner{
+    background-image: url(images/donate1.jpg);
+    background-color: gray;
+    background-blend-mode: multiply;
+    padding-top: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    height: 600px;
+}
+h1{
+    color:aliceblue;
+    font-size: 70px;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.link-div{
+    text-align: center;
+    margin-block: 30px;
+}
+.link-butt{
+    margin: auto;
+    text-decoration: none;
+    background-color: orangered;
+    color: aliceblue;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
+button{
+    font-size: 60px;
+    font-weight: 700;
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+}
+
+#first-sect{
+    margin-top: 150px;
+}
+.black-head{
+        color:black;
+        font-size: 50px;
+        text-align: center;
+    }
+.black-para{
+        color: rgb(42, 40, 40);
+        font-size: 20px;
+        padding-left: 20%;
+        padding-right: 20%;
+}
+.money-parent{
+    margin-left: 322px;
+    margin-right: 0%;
+    margin-bottom: 70px;
+}
+.money{
+    width: 150px;
+    height: 150px;
+    background-color:azure;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.money h3{
+    font-weight: 1500;
+    text-align: center;
+    padding-top: 38px;
+}
+#tk200{
+    background-color: antiquewhite;
+   border: 5px solid orangered;
+   color: orangered;
+}
+h4{
+    color: gray;
+    margin-bottom: -20px;
+}
+.input-div{
+  text-align: center;
+}
+
+input {
+    content:normal;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background-color: transparent;
+    width: 700px;
+    height: 30px;
+  }
+  
+  .input{
+    outline: none;
+  }
+
+  hr{
+    margin-left: 22%;
+    margin-right: 22%;
+    background-color: gray;
+  }
+
+  #butt2{
+   margin-top: 65px;
+  }
+
+  #middle-sect{
+    margin-top: 150px;
+  }
+
+
+  .message{
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    background-color:bisque;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+  }
+
+  #message-1st{
+    background-color:powderblue;
+  }
+
+  #message-2nd{
+    background-color:thistle;
+  }
+.message img{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+  .message h2{
+    color: black;
+    font-weight: 800;
+    margin-left: 10%;
+  }
+  .message p{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 10%;
+  }
+  #middle-messages{
+    margin-left: 210px;
+  }
+  .content-sect{
+    margin-top: 150px;
+    margin-left: 95px;
+  }
+  .parent-div{
+    margin-left: 70px;
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  .text-div{
+    width: 500px;
+    height: 505px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding-right: 0px;
+    
+  }
+  .img-div1{
+    width: 500px;
+    height: 505px;
+    background-image: url(images/donate2.jpeg);
+    background-size:cover;
+    border-radius: 10px;
+    margin-left: 45px;
+    margin-right: 45px;
+    background-color: rgb(213, 210, 210);
+    background-blend-mode: multiply;
+
+  }
+  .img-div2{
+    width: 500px;
+    height: 505px;
+    background-image: url(images/donate3.png);
+    background-size: cover;
+    border-radius: 5px;
+    margin-left: 45px;
+    margin-right: 45px;
+    background-color: rgb(213, 210, 210);
+    background-blend-mode: multiply;
+  }
+  .text-div h1{
+    text-align: left;
+  }
+  .text-div p{
+   text-align: left;
+   padding-left: 0px;
+  }
+  #butt3{
+    text-align: left;
+  }
+
+  #butt4{
+    text-align: left;
+  }
+
+  #last-sect{
+    margin-top: 150px;
+  }
+
+  #mail-box{
+    display: inline-block;
+    margin-left: 300px;
+    background-color: bisque;
+    width: 60%;
+    height: 200px;
+  }
+  #center-mail{
+    height: 80px;
+    margin-left: 240px;
+    margin-top: 90px;
+  }
+
+ 
+  #mail-div{
+    margin-top: 0px;
+    display: inline-block;
+    height: 45px;
+    width: 300px;
+  }
+ #butt5-div{
+    margin-top: 0px;
+    margin-left: -10px;
+    display: inline-block;
+    height: 48px;
+    width: 100px;
+    padding: 5px 10px;
+
+ }
+
+ #emailbox{
+    height: 42px;
+    width: 300px;
+    background-color:rgb(181, 182, 183);
+  }
+  #subscribe{
+    margin: auto;
+    text-decoration: none;
+    background-color: orangered;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    color: aliceblue;
+    font-weight: 600;
+    padding: 13px 30px;
+    font-size: 15px;
+  }
+  #footer-div{
+    background-color: black;
+    margin-bottom: 0px;
+  }
+  #footer-div h1{
+     font-family: 'Lobster', cursive;
+     color: bisque;
+  }
+  #footer-div p{
+    color: blanchedalmond;
+    text-align: center;
+    padding-bottom: 90px;
+  }
